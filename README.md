@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Sohaib Khalid</h1>
-<h3 align="center">Student at University Of Central Punjab, Pakistan🌟.</h3>
+<h3 align="center">Graduated from University Of Central Punjab, Pakistan🌟.</h3>
 
 <br>
 
@@ -22,7 +22,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-  <a href="https://www.linkedin.com/in/sohaib-khalid-88238a21b/" target="blank"><img align="center"
+  <a href="https://www.linkedin.com/in/coolboymsk" target="blank"><img align="center"
       src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg"
       alt="Sohaib Khalid" height="30" width="40" /></a>
   <a href="https://www.facebook.com/profile.php?id=100007543277070" target="blank"><img align="center"
