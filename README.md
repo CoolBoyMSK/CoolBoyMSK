@@ -1,7 +1,7 @@
 <div align="center">
 
 <!-- Dynamic Typing SVG Header -->
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=28&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&multiline=true&repeat=true&width=800&height=100&lines=Hey+%F0%9F%91%8B%2C+I'm+Sohaib+Khalid;Founder+%26+CEO+of+WALSO+%7C+Smart+Contract+Auditor;Blockchain+Developer+%7C+Web3+Security+Researcher)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=26&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&multiline=true&repeat=true&width=900&height=140&lines=Hey+%F0%9F%91%8B%2C+I'm+Sohaib+Khalid;Founder+%26+CEO+of+WALSO+%7C+Smart+Contract+Auditor;Blockchain+Developer+%7C+Web3+Security+Researcher)](https://git.io/typing-svg)
 
 <br/>
 
@@ -157,19 +157,19 @@ With **7+ years of industry experience**, I specialize in **Smart Contract Audit
 
 <div align="center">
 
+<!-- GitHub Streak -->
+<img width="70%" src="https://streak-stats.demolab.com/?user=CoolBoyMSK&theme=tokyonight&hide_border=true&background=0D1117&stroke=58a6ff&ring=58a6ff&fire=FF6D00&currStreakLabel=58a6ff" />
+
+<br/><br/>
+
+<!-- GitHub Stats -->
+<img width="49%" src="https://github-readme-stats.vercel.app/api?username=CoolBoyMSK&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=58a6ff&icon_color=58a6ff&text_color=c9d1d9&count_private=true&include_all_commits=true" />
+<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=CoolBoyMSK&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=58a6ff&text_color=c9d1d9&langs_count=10" />
+
+<br/><br/>
+
 <!-- GitHub Trophies -->
 <img src="https://github-profile-trophy.vercel.app/?username=CoolBoyMSK&theme=tokyonight&no-frame=true&no-bg=true&column=7&margin-w=10" width="100%" />
-
-<br/><br/>
-
-<!-- Stats & Streak Side by Side -->
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=CoolBoyMSK&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=58a6ff&icon_color=58a6ff&text_color=c9d1d9&count_private=true&include_all_commits=true" />
-<img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=CoolBoyMSK&theme=tokyonight&hide_border=true&background=0D1117&stroke=58a6ff&ring=58a6ff&fire=FF6D00&currStreakLabel=58a6ff" />
-
-<br/><br/>
-
-<!-- Top Languages -->
-<img width="40%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=CoolBoyMSK&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=58a6ff&text_color=c9d1d9&langs_count=10" />
 
 <br/><br/>
 
