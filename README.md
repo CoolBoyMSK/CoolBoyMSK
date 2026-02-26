@@ -169,7 +169,7 @@ With **7+ years of industry experience**, I specialize in **Smart Contract Audit
 <br/><br/>
 
 <!-- GitHub Trophies -->
-<img src="https://github-profile-trophy.vercel.app/?username=CoolBoyMSK&theme=tokyonight&no-frame=true&no-bg=true&column=7&margin-w=10" width="100%" />
+<img src="https://github-profile-trophy.vercel.app/?username=CoolBoyMSK&theme=tokyonight&no-frame=true&no-bg=true&column=7&margin-w=10&rank=-?" width="100%" />
 
 <br/><br/>
 
