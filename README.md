@@ -1,7 +1,7 @@
 <div align="center">
 
 <!-- Dynamic Typing SVG Header -->
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=26&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&multiline=true&repeat=true&width=900&height=140&lines=Hey+%F0%9F%91%8B%2C+I'm+Sohaib+Khalid;Founder+%26+CEO+of+WALSO+%7C+Smart+Contract+Auditor;Blockchain+Developer+%7C+Web3+Security+Researcher)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=26&duration=3000&pause=500&color=58A6FF&center=true&vCenter=true&multiline=true&repeat=true&width=800&height=120&lines=Hey+%F0%9F%91%8B%2C+I'm+Sohaib+Khalid;Founder+%26+CEO+of+WALSO+%7C+Smart+Contract+Auditor;Blockchain+Developer+%7C+Web3+Security+Researcher)](https://git.io/typing-svg)
 
 <br/>
 
